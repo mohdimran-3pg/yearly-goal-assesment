@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dry-cleaning-app",
+    "slug": "dry-cleaning-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dry-cleaning-app"
+}
